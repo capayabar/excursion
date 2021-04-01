@@ -2,6 +2,7 @@ html {
     background-color: black;
     font-family: Verdana;
     text-align: center;
+    align-items: center;
 }
 
 h1 {
@@ -9,3 +10,9 @@ h1 {
     font-size: 50px;
     font-weight: normal;
 }
+
+header p {
+    color: aqua;
+    font-size: 16px;
+}
+
